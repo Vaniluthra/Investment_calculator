@@ -1,6 +1,6 @@
 # Investment_calculator
 
-
+React application that allows users to get their investment details.
 
 ## Run Locally
 
@@ -35,3 +35,8 @@ or
 This command starts the development server and opens your default web browser to display the React application.
 
 ## Screenshots
+![image](https://github.com/Vaniluthra/Investment_calculator/assets/94587714/42df892a-0412-402b-bf07-d2e55e593a1e)
+![image](https://github.com/Vaniluthra/Investment_calculator/assets/94587714/2eab5a81-8830-42e7-9f0d-a1f499c7782e)
+
+
+
